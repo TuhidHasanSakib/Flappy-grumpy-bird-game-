@@ -70,7 +70,7 @@ Thank you to the Java development community, my mentors, peers, and the open-sou
 
 Have questions or ideas? Reach out to the developer:
 
-- **Thuhid Hasan Sakib**: sakib2305341597@diu.edu.bd or mdtuihdhasansakib@gmail.com
+- **Thuhid Hasan Sakib**: sakib2305341597@diu.edu.bd or mdtuhidhasansakib@gmail.com
 
 ---
 
