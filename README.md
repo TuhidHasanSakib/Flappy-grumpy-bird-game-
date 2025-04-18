@@ -1,6 +1,6 @@
 # 🐦 Flappy Grumpy Bird Game
 
-Welcome to **Flappy Grumpy Bird**, a fun and engaging Java-based game inspired by the classic Flappy Bird! Developed as a creative project by **Thuhid Hasan Sakib** at Daffodil International University, this game challenges players to navigate a bird through a series of pipes using simple keyboard controls. Built with Java Swing and AWT, it offers a nostalgic arcade experience with a vibrant graphical interface. 🚀
+Welcome to **Flappy Grumpy Bird**, a fun and engaging Java-based game inspired by the classic Flappy Bird! Developed as a creative project by **Tuhid Hasan Sakib** at Daffodil International University, this game challenges players to navigate a bird through a series of pipes using simple keyboard controls. Built with Java Swing and AWT, it offers a nostalgic arcade experience with a vibrant graphical interface. 🚀
 
 ## 📖 About the Project
 
@@ -70,7 +70,7 @@ Thank you to the Java development community, my mentors, peers, and the open-sou
 
 Have questions or ideas? Reach out to the developer:
 
-- **Thuhid Hasan Sakib**: sakib2305341597@diu.edu.bd or mdtuhidhasansakib@gmail.com
+- **Tuhid Hasan Sakib**: sakib2305341597@diu.edu.bd or mdtuhidhasansakib@gmail.com
 
 ---
 
