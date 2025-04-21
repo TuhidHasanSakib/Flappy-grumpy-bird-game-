@@ -6,7 +6,7 @@ public class App {
         int boardHeight = 640;
 
         JFrame frame = new JFrame("Flappy grumpy bird game");
-        // frame.setVisible(true);
+        
 		frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
         frame.setResizable(false);
